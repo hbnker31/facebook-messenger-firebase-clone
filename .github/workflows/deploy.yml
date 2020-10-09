@@ -1,4 +1,4 @@
-name: Firebase Deploy
+name: Facebook messenger clone
 on:
   push:
     branches:
